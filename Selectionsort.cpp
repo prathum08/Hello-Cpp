@@ -32,3 +32,4 @@ int main(){
     printArr(arr,n);
 
 }
+// Author Prathum Bhangadia(2/3/24)
